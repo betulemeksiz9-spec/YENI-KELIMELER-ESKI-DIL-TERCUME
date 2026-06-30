@@ -3,6 +3,10 @@ meme_dict = {
             "LOL": "Komik bir şeye verilen cevap",
             "GHOSTİNG":"bir kişiyi görmezden gelmek",
             "LOVE BOMBİNG":"BİR KİŞİYİ ÇOK İLGİYE BOĞUP ARDINDAN İLGİ GÖSTERMEYİ BIRAKMAK",
+            "ROFL":" bir şakaya karşılık cevap",
+            "AGGRO":"agresifleşmek/sinirlenmek",
+            "SHEESH":"onaylamamak",
+            "CREEPY":" korkunç"
             
             }
 
